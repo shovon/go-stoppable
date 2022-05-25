@@ -6,9 +6,7 @@ import (
 	"sync"
 )
 
-// TODO: unit test this code
-
-// Stoppable is an object that we can inherit to represent a stopped process.
+// Stoppable is an struct that you can inherit to represent a stopped process.
 //
 // Great for processes that are long running but needs to be stopped on command.
 //
