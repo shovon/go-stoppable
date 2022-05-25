@@ -4,7 +4,7 @@ Package `stoppable` provides a helper struct to be extended into for the purpose
 
 ## Usage
 
-```
+```go
 package main
 
 import "github.com/shovon/go-stoppable"
